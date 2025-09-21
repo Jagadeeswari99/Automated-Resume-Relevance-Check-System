@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+PyMuPDF
+python-docx
+scikit-learn
+sentence-transformers
